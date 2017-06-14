@@ -53,5 +53,5 @@ fastlane/Preview.html
 fastlane/screenshots
 
 /android
-/ios
+/iso
 /node_modules
